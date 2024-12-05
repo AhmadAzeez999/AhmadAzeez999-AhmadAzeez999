@@ -66,9 +66,25 @@ I am a Computer Science student, passionate about building innovative projects a
 
 #
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmadAzeez999&theme=dark)](https://git.io/streak-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/AdotAdotA?theme=dark&font=Source%20Code%20Pro)
+## Stats & Streaks
+<a href="https://git.io/streak-stats">
+  <img alt="GitHub Streak" src="https://github-streak-stats-three.vercel.app/?user=AhmadAzeez999&theme=holi-theme">
+</a>
+
+### Profile Stats
+<a href="https://github.com/AhmadAzeez999/github-readme-stats?tab=readme-ov-file">
+  <img alt="Most Used Languages" src="https://github-readme-stats-xz6a.vercel.app/api/top-langs/?username=AhmadAzeez999&layout=compact&theme=holi&langs_count=20">
+  <img alt="GitHub Stats" src="https://github-readme-stats-xz6a.vercel.app/api?username=AhmadAzeez999&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
+</a>
+<a href="https://github.com/Ryo-samuraiJP/github-readme-activity-graph">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph-v46a.vercel.app/graph/?username=AhmadAzeez999&theme=react-dark" />
+</a>
+
+### Leetcode Stats
+<a href="https://leetcode.com/AdotAdotA">
+  <img alt="LeetCode Stats" title="LeetCode Profile" src="https://leetcard.jacoblin.cool/AdotAdotA?theme=transparent&font=Source%20Code%20Pro"/>
+</a>
+
 
 <br />
 
