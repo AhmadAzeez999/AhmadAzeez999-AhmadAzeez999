@@ -67,7 +67,7 @@ I am a Computer Science student, passionate about building innovative projects a
 #
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadAzeez999)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmadAzeez999&theme=dark)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AdotAdotA?theme=dark&font=Source%20Code%20Pro)
 
 <br />
