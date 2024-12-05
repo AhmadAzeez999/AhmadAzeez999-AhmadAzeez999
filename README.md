@@ -11,6 +11,9 @@ I am a Computer Science student, passionate about building innovative projects a
   <a href="https://ahmad-azeez.netlify.app/">
     <img alt="Portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge"/>
   </a>
+  <a href="mailto:azeeztriplea10@gmail.com">
+    <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-azeeztriplea10%40gmail.com-2a9d8f?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -62,6 +65,10 @@ I am a Computer Science student, passionate about building innovative projects a
 <br />
 
 #
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadAzeez999)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AdotAdotA?theme=dark&font=Source%20Code%20Pro)
 
 <br />
 
