@@ -66,10 +66,7 @@ I am a Computer Science student, passionate about building innovative projects a
 
 #
 
-## Stats & Streaks
-<a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" src="https://github-streak-stats-three.vercel.app/?user=AhmadAzeez999&theme=holi-theme">
-</a>
+## Stats
 
 ### Profile Stats
 <a href="https://github.com/AhmadAzeez999/github-readme-stats?tab=readme-ov-file">
