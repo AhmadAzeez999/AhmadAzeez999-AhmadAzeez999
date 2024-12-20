@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Game Developer | Cybersecurity Enthusiast**
 
-I am a Computer Science student, passionate about building innovative projects and solving real-world problems with code. Every project I work on follows a simple structured approach: form coming up with the idea and planning to execution and refinement, all while adding a touch of creativity 🎨. I'm contantly exploring new technologies and learning (it's becoming an obsession) to improve my skills in development 👨‍💻, problem-solving 🤔, and design 🌟.
+I am a Computer Science student, passionate about building innovative projects and solving real-world problems with code. Every project I work on follows a simple structured approach: from coming up with the idea and planning to execution and refinement, all while adding a touch of creativity 🎨. I'm contantly exploring new technologies and learning (it's becoming an obsession) to improve my skills in development 👨‍💻, problem-solving 🤔, and design 🌟.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmad-azeez-89b83b2b7/">
